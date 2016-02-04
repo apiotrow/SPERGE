@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{343D5406-82A4-9FD3-099D-A7E16A95D75A}") = "SPERGE", "Assembly-CSharp.csproj", "{CF786A39-CD85-AEFE-773E-C8EB39AFCB46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF786A39-CD85-AEFE-773E-C8EB39AFCB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF786A39-CD85-AEFE-773E-C8EB39AFCB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF786A39-CD85-AEFE-773E-C8EB39AFCB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF786A39-CD85-AEFE-773E-C8EB39AFCB46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
